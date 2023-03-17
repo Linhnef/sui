@@ -9545,6 +9545,7 @@ dependencies = [
  "futures",
  "futures-core",
  "hyper",
+ "move-bytecode-utils",
  "move-core-types",
  "mysten-metrics",
  "once_cell",
